@@ -6,7 +6,7 @@
 <p align="center">Code is my canvas, and innovation is my brush. I craft dynamic, interactive experiences and constantly explore new tools to push boundaries. Let’s build something extraordinary together! 🚀</p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" style="margin-right: 20px;">  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
   <a href="https://www.linkedin.com/in/khushi-mittal-21b3ba246/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
