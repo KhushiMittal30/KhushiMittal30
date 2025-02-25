@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Khushi Mittal</h1>
 <h3 align="center">In a World where i am loving and adoring Myself 🌟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhushiMittal30&label=Profile%20views&color=0e75b6&style=flat" alt="KhushiMittal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhushiMittal30&label=Profile%20views&color=0e75b6&style=flat" alt="KhushiMittal" /> </p> 
 
 <p align="center">Code is my canvas, and innovation is my brush. I craft dynamic, interactive experiences and constantly explore new tools to push boundaries. Let’s build something extraordinary together! 🚀</p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" style="margin-right: 20px;">  
